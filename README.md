@@ -2,7 +2,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs?username=virtuezzysm202&layout=compact&card_width=400&langs_count=6&theme=tokyonight&hide_border=false" 
     height="160" 
@@ -13,28 +13,45 @@
 ###
 
 <h3 align="left">💻 Tech Stack</h3>
+
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" title="React / React Native" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo" />
-  <img width="12" />
-  <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" height="30" alt="scikit learn logo" />
+  <table>
+    <tr>
+      <td align="center" width="60" height="60" style="border: 1px solid #9d4edd; border-radius: 8px; padding: 5px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
+      </td>
+      <td align="center" width="60" height="60" style="border: 1px solid #9d4edd; border-radius: 8px; padding: 5px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
+      </td>
+      <td align="center" width="60" height="60" style="border: 1px solid #9d4edd; border-radius: 8px; padding: 5px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
+      </td>
+      <td align="center" width="60" height="60" style="border: 1px solid #9d4edd; border-radius: 8px; padding: 5px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" />
+      </td>
+      <td align="center" width="60" height="60" style="border: 1px solid #9d4edd; border-radius: 8px; padding: 5px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
+      </td>
+      <td align="center" width="60" height="60" style="border: 1px solid #9d4edd; border-radius: 8px; padding: 5px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
+      </td>
+      <td align="center" width="60" height="60" style="border: 1px solid #9d4edd; border-radius: 8px; padding: 5px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
+      </td>
+      <td align="center" width="60" height="60" style="border: 1px solid #9d4edd; border-radius: 8px; padding: 5px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
+      </td>
+      <td align="center" width="60" height="60" style="border: 1px solid #9d4edd; border-radius: 8px; padding: 5px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo" />
+      </td>
+      <td align="center" width="60" height="60" style="border: 1px solid #9d4edd; border-radius: 8px; padding: 5px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo" />
+      </td>
+      <td align="center" width="60" height="60" style="border: 1px solid #9d4edd; border-radius: 8px; padding: 5px;">
+        <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" height="30" alt="scikit learn logo" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ###
