@@ -3,14 +3,12 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=virtuezzysm202&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=virtuezzysm202&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=virtuezzysm202&layout=compact&card_width=400&langs_count=6&theme=tokyonight&hide_border=false" 
+    height="160" 
+    alt="most used languages" 
+  />
 </div>
-
-###
-
-
-
 
 ###
 
@@ -49,12 +47,14 @@
 ###
 
 <h3 align="left">🏆 GitHub Trophies</h3>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=virtuezzysm202&theme=tokyonight&column=6&margin-w=10&margin-h=10" alt="trophies" />
+
+<hr style="border: 0; height: 1px; background: #ffffff; margin: 20px 0;" />
+
+<div align="left">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=virtuezzysm202&theme=tokyonight&column=4&margin-w=10&margin-h=10" 
+    alt="trophies" 
+  />
 </div>
 
-###
-
-<br clear="both">
-
-
+<hr style="border: 0; height: 1px; background: #9d4edd; margin: 20px 0;" />
