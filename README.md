@@ -9,7 +9,8 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgur.com/7jjTUDI.gif" alt="wolf animation" />
+
+
 
 ###
 
