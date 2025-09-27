@@ -21,6 +21,9 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
       </td>
       <td align="center" width="60" height="60" style="border: 1px solid #9d4edd; border-radius: 8px; padding: 5px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo" />
+      </td>
+      <td align="center" width="60" height="60" style="border: 1px solid #9d4edd; border-radius: 8px; padding: 5px;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
       </td>
       <td align="center" width="60" height="60" style="border: 1px solid #9d4edd; border-radius: 8px; padding: 5px;">
